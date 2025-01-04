@@ -4,10 +4,10 @@ layout: index.njk
 date: 2025-01-02 20:24:48 +08:00
 ---
 
-A digital garden of information on living in Bali, Indonesia.
+A digital garden of information on living in Sanur.
 
 ## Events
-- Recurring events, other events calendars
+- [2025 calendar of events](2025-calendar-of-events)
 
 ## Orientation
 
@@ -15,19 +15,14 @@ A digital garden of information on living in Bali, Indonesia.
 - [Essential apps](essential-apps)
 - Trash disposal, [Recycling](recycling)
 - [Weather](weather) and [clothing](clothing)
-- [Renting a home](renting-a-home), Air conditioning, Cleaning, Pool maintenance, Water, Cooking gas, Washing machine, Laundry
+- [Renting a home](renting-a-home), Air conditioning, Cleaning, Pool maintenance, [Water](water), Cooking gas, Washing machine
 - [Currency and numbers](currency-and-numbers)
 
 ## Food and drink
-- [Supermarkets](supermarkets), Traditional markets, Food courts and night markets, [Warung](warung)
+- [Supermarkets](supermarkets), [Warung](warung)
+- [Sindhu Night Market](sindhu-night-market)
 - [International restaurants](international-restaurants)
 - Happy hours, [Buying alcohol](buying-alcohol)
-
-## Activities
-- Athletics: Running
-- Courts: Badminton, tennis, padel
-- Extreme sports: Watersports, dirt biking 
-- Yoga
 
 ## Healthcare
 - [Stomach problems](stomach-problems)
@@ -37,6 +32,7 @@ A digital garden of information on living in Bali, Indonesia.
 - Vaccinations
 
 ## Personal care
+- [Laundry](laundry)
 - [Deodorant](deodorant)
 - Salons and barbers
 - [Menstrual products](menstrual-products)
